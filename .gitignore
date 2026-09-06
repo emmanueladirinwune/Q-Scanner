@@ -1,0 +1,25 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Secrets / environment files
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+Qscanner_backup.ipynb
+.virtual_documents/
